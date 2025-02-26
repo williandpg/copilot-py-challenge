@@ -21,11 +21,11 @@ Como entrada, receba um número inteiro e verifique se ele é par ou ímpar.
 Arquivo: `verif_par_impar.py`
 
 ## 5 - Calculando Média de Notas
-Agora vamos calcular a média de três notas fornecidas na entrada do usuário. Uma dica é: Utilize operadores aritméticos para realizar o cálculo da média.
+Agora vamos calcular a média de três notas fornecidas na entrada do usuário. 
 
 Arquivo: `calc_media.py`
 
 ## 6 - Verificando Palíndromos
-Vamos testar se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
+Vamos testar se uma palavra é um palíndromo?!
 
 Arquivo: `verif_palindromo.py`
