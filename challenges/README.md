@@ -16,7 +16,7 @@ Vamos solicitar como entrada dois números e depois vamos realizar uma operaçã
 Arquivo: `ope_mat.py`
 
 ## 4 - Verificando Números Pares e Ímpares
-Como entrada, receba um número inteiro e verifique se ele é par ou ímpar. Uma dica é: Utilize condicionais para realizar a verificação e, se possível, faça uso do Github Copilot(ou outra IA) para otimizar a estrutura do código.
+Como entrada, receba um número inteiro e verifique se ele é par ou ímpar.
 
 Arquivo: `verif_par_impar.py`
 
